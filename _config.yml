@@ -1,0 +1,17 @@
+# Site settings
+title: My Website
+description: A website powered by Github Pages
+
+# Theme settings
+theme: jekyll-theme-hacker
+
+# Markdown settings
+markdown: kramdown
+
+# Github Pages settings
+github:
+  repository: [user-name]/[repo-name]
+
+# Build settings
+permalink: /:year/:month/:day/:title/
+paginate: 5
