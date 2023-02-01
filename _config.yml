@@ -10,7 +10,7 @@ markdown: kramdown
 
 # Github Pages settings
 github:
-  repository: [user-name]/[repo-name]
+  repository: DanielFelipeGomez/temas.gitgub.io
 
 # Build settings
 permalink: /:year/:month/:day/:title/
