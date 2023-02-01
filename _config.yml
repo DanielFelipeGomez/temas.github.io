@@ -3,7 +3,7 @@ title: Configuración de la máquina IAAS
 description: Informe de la práctica nº1 de DSI.
 
 # Theme settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 
 # Markdown settings
 markdown: kramdown
