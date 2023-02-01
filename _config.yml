@@ -1,6 +1,6 @@
 # Site settings
-title: Informe prueba
-description: A website powered by Github Pages
+title: Configuración de la máquina IAAS
+description: Informe de la práctica nº1 de DSI.
 
 # Theme settings
 theme: jekyll-theme-hacker
